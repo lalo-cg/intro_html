@@ -1,0 +1,39 @@
+body {
+   background-color: #323232;
+    text-align: center;
+    font-family: cursive;
+}
+nav {
+    background: #14ffec;
+    color: #323232; 
+}
+h1 {
+    color: #0d7377;
+    
+}
+h2 {
+    color: #14ffec;
+    
+}
+p {
+    color: #14ffec;
+    font-size: x-large; 
+}
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 30%;
+}
+a {
+    font-size: large;
+    color: #323232;
+}
+a:hover {
+    color: #0d7377;
+}
+footer {
+    background: #14ffec;
+     }
+      span {
+    color: #323232;
+      }
